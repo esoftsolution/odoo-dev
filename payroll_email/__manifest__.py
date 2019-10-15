@@ -25,8 +25,8 @@
     'summary': """Helps to send payroll Slip to Employees through Email.""",
     'description': 'This module helps you to send payslip through Email.',
     'category': 'Generic Modules/Human Resources',
-    'author': 'E-soft Solution',
-    'company': 'E-Soft Solution',
+    'author': 'Nexus Incorporation',
+    'company': 'Nexus Incorporation',
     'website': "https://www.sagarnetwork.com",
     'depends': ['base', 'hr_payroll', 'mail', 'hr'],
     'data': [
